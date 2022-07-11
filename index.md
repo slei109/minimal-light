@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a Ph.D. candidate in the Department of Computer Science of Virginia Tech. My research focuses on few-shot learning
+  and robust model learning. I'm currently open for opportunities in research facilities.
 
 ## Research Interests
 
@@ -13,38 +14,66 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2022]** Our paper about cross-domain few-shot semantic segmentation is accepted by ECCV 2022.
+- **[May. 2022]** OUr paper about NLP is accepted by NACCL 2022.
+- **[Oct. 2021]** Our paper about few-shot learning is published on TKDD 2021.
+- **[Jul. 2021]** Our paper about few-shot semantic segmentation is accepted by ICME 2021.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+[comment]: <> (First Author)
+- **[ECCV'22] Cross-Domain Few-Shot Semantic Segmentation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du and Chang-Tien Lu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  European Conference on Computer Vision 2022 (ECCV), Tel-Aviv, Israel, Oct. 23-27, 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  
+- **[NAACL'22] Uncertainty-Aware Cross-Lingual Transfer with Pseudo Partial Labels**
+  <br>
+  **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen and Chang-Tien Lu  <br>
+  Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL'22), Seattle, Washington, USA, July 2022.
+  <br>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **[TKDD'21] Online and Distributed Robust Regressions with Extremely Noisy Labels**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Shuo Lei**, Xuchao Zhang, Liang Zhao, Arnold P. Boedihardjo, Chang-Tien Lu  <br>
+  ACM Transactions on Knowledge Discovery from Data (TKDD), 2021.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **[ICME'21] Few-Shot Semantic Segmenation via Prototype Augmentation with Image-level Annotations**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du and Chang-Tien Lu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  IEEE International Conference on Multimedia and Expo (ICME), Virtual, Mexico, July 5–9, 2021
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  
+[comment]: <> (Second Author)
+- **[TKDD'19] Robust Regression via Heuristic Corruption Thresholding and Its Adaptive Estimation Variation**
+  <br>
+  Xuchao Zhang, **Shuo Lei**, Liang Zhao, Arnold Boedihardjo, Chang-Tien Lu
+  <br>
+  ACM Transactions on Knowledge Discovery from Data (TKDD), 2019.
+  <br>
 
-## Services
+- **[ICDM'18]Robust Regression via Online Feature Selection under Adversarial Data Corruption**
+  <br>
+  Xuchao Zhang, **Shuo Lei**, Liang Zhao, Arnold Boedihardjo, Chang-Tien Lu
+  <br>
+  Proceedings of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 17-20, 2018.  
+  <br>
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+[comment]: <> (Third Author)
+- **[Neurocomputing'22] Semantic Inpainting on Segmentation Map via Multi-Expansion Loss**
+  <br>
+  Jianfeng He, Xuchao Zhang, **Shuo Lei**, Shuhui Wang, Chang-Tien Lu and Bei Xiao
+  <br>
+  Neurocomputing, Elsevier, 2022
+  <br>
+  
+- **[EMNLP'20] Towards More Accurate Uncertainty Estimation In Text Classification**
+  <br>
+  Jianfeng He, Xuchao Zhang, **Shuo Lei**, Zhiqian Chen, Fanglan Chen, Abdulaziz Alhamadani, Bei Xiao and ChangTien Lu
+  <br>
+  2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Long Paper, Nov. 16-20, 2020. 
+  <br>
