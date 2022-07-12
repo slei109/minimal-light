@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year PhD student in Computer Science at Virginia Tech and a student member at the Sanghani Center for Artificial Intelligence and Data Analytics. I am working under the supervision of Prof. [Chang-Tien Lu](https://people.cs.vt.edu/ctlu/). I received an M.Sc. degree and a B.A. degree in Software Engineering at Beihang University. My research interests are in the broad area of machine learning with a particular focus on learning with limited labeled data, including few-/zero-shot learning, self-learning with uncertainty analysis, and applications in computer vision and natural language processing tasks such as semantic segmentation and text classification. 
+I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a student member at the Sanghani Center for Artificial Intelligence and Data Analytics. I am working under the supervision of Prof. [Chang-Tien Lu](https://people.cs.vt.edu/ctlu/). I received an M.Sc. degree and a B.A. degree in Software Engineering at Beihang University. My research interests are in the broad area of machine learning with a particular focus on learning with limited labeled data, including few-/zero-shot learning, self-learning with uncertainty analysis, and applications in computer vision and natural language processing tasks such as semantic segmentation and text classification. 
 
 ## Research Interests
 
