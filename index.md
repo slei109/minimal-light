@@ -69,7 +69,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
   <br>
   Jianfeng He, Xuchao Zhang, **Shuo Lei**, Zhiqian Chen, Fanglan Chen, Abdulaziz Alhamadani, Bei Xiao and ChangTien Lu
   <br>
-  2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov. 16-20, 2020. [\[paper\]](https://aclanthology.org/2020.emnlp-main.671.pdf)
+  2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov. 16-20, 2020. [\[paper\]](https://aclanthology.org/2020.emnlp-main.671.pdf) [\[code\]](https://github.com/he159ok/Towards-More-Accurate-Uncertainty-Estimation-In-Text-Classification)
   <br>
 
 - **[SIGSPATIAL'20] Graph Convolutional Networks with Kalman Filtering for Traffic Prediction**
