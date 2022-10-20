@@ -76,7 +76,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
   <br>
   Fanglan Chen, Zhiqian Chen, Subhodip Biswas, **Shuo Lei**, Naren Ramakrishnan, Chang-Tien Lu
   <br>
-  ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2020. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3397536.3422257)
+  ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL) 2020. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3397536.3422257) [\[code\]](https://github.com/Fanglanc/DKFN)
   <br>
 
 - **[TKDD] Robust Regression via Heuristic Corruption Thresholding and Its Adaptive Estimation Variation**
