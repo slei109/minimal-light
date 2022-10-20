@@ -35,7 +35,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen and Chang-Tien Lu
   <br>
-  Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL'22), Seattle, Washington, USA, July 2022. (to appear)
+  Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL'22), Seattle, Washington, USA, July 2022. [\[paper\]](https://aclanthology.org/2022.findings-naacl.153.pdf) [\[code\]](https://github.com/slei109/CLTP)
   <br>
   
 - **[Neurocomputing'22] Semantic Inpainting on Segmentation Map via Multi-Expansion Loss**
