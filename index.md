@@ -55,7 +55,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du and Chang-Tien Lu
   <br>
-  IEEE International Conference on Multimedia and Expo (ICME), Virtual, Mexico, July 5–9, 2021 [\[paper\]](https://arxiv.org/pdf/2007.01496.pdf)
+  IEEE International Conference on Multimedia and Expo (ICME), Virtual, Shenzhen, July 5–9, 2021 [\[paper\]](https://arxiv.org/pdf/2007.01496.pdf)
   <br>
 
 - **[ICCVW'21] Reducing Noise Pixels and Metric Bias in Semantic Inpainting on Segmentation Map**
