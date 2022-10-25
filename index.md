@@ -28,7 +28,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du and Chang-Tien Lu
   <br>
-  European Conference on Computer Vision 2022 (ECCV), Tel-Aviv, Israel, Oct. 23-27, 2022.  [\[paper\]](https://slei109.github.io/papers/eccv-cdfss.pdf) [\[code\]](https://github.com/slei109/PATNet)
+  European Conference on Computer Vision 2022 (ECCV), Tel-Aviv, Israel, Oct. 23-27, 2022. [\[paper\]](https://slei109.github.io/papers/eccv-cdfss.pdf) [\[code\]](https://github.com/slei109/PATNet)
   <br>
   
 - **[NAACL'22] Uncertainty-Aware Cross-Lingual Transfer with Pseudo Partial Labels**
