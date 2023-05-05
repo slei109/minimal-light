@@ -14,6 +14,7 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
 
 ## News
 
+- **[May 2023]** One paper was accepted by ACL 2023.
 - **[Jul. 2022]** One paper was accepted by ECCV 2022.
 - **[Jun. 2022]** One paper was accepted by Neurocomputing.
 - **[May. 2022]** One paper was accepted by NAACL 2022.
@@ -24,6 +25,13 @@ I am a fourth-year Ph.D. student in Computer Science at Virginia Tech and a stud
 ## Publications
 
 [comment]: <> (First Author)
+- **[ACL'23] TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation**
+  <br>
+  **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen and Chang-Tien Lu.
+  <br>
+  The 61st Annual Meeting of the Association for Computational Linguistics(ACL), Toronto, Canada, July 9-14, 2023 (Accepted)
+  <br>
+  
 - **[ECCV'22] Cross-Domain Few-Shot Semantic Segmentation**
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du and Chang-Tien Lu
